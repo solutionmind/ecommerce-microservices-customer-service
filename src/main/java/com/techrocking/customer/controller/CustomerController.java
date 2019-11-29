@@ -20,7 +20,6 @@ import com.techrocking.customer.service.CustomerService;
 
 @RefreshScope
 @RestController
-@RequestMapping("/customer")
 public class CustomerController {
 	
 	@Autowired
